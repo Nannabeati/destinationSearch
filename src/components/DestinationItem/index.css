@@ -1,0 +1,18 @@
+/* Write your CSS here */
+
+.image {
+  height: 200px;
+  width: 200px;
+  border-radius: 20px;
+  background-size: cover;
+}
+
+.card-name {
+  color: #0f172a;
+  font-family: 'Open Sans';
+}
+
+.list {
+  list-style-type: none;
+  margin: 15px;
+}
